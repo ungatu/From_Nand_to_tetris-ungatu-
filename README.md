@@ -1,2 +1,3 @@
 # From_Nand_to_tetris-ungatu-
-my question and recording 
+Code By **ungatu**.
+with some Q&A in each unit folders for thinking.
